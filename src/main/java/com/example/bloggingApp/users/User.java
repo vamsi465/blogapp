@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 @Data
 @Entity
 public class User {
-    private int  id;gi
+    private int  id;
 }
